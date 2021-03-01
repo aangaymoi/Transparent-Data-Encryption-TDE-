@@ -1,3 +1,4 @@
+```
 -- enabled file stream
 -- sql server configuration manager
 -- choose enable filestream and then run below command, afterward restart sqlserver instances
@@ -156,3 +157,4 @@ DBCC TRACESTATUS
 --make sure -T272 is trace on
 
 
+```
